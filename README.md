@@ -1,3 +1,3 @@
 # Runtime Components
 
-My config files for bash, zsh, vim, gdb, and git.
+My files for bashrc, zshrc, vimrc, gdbinit, and gitconfig.
